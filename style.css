@@ -1,0 +1,263 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    outline: 0%;
+}
+
+nav img{
+    position: relative;
+    height: 980px;
+    object-fit: cover;
+}
+
+nav .h1{
+    position: absolute;
+    top: 15px;
+    margin-left: 15%;
+    color: aliceblue;
+}
+
+nav .a1{
+    position: absolute;
+    top: 21px;
+    left: 65%;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.a1 .intro{
+    color: #009fcf;
+}
+
+.a1 a{
+    margin: 30px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+nav .p1{
+    position: absolute;
+    top: 33%;
+    margin-left: 43%;
+    color: aliceblue;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.p1 h2{
+    font-size: 390%;    
+}
+
+.p1 h4{
+    margin-left: 20%;
+}
+
+.p1 h5{
+    margin-left: 35%;
+}
+
+.sec1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sec1 img{
+width: 500px;
+height: 317px;
+margin-top: 22%;
+margin-left: 75%;
+}
+.sec1 .p2{
+  margin-top: 6%;
+  margin-right: 25%;
+}
+.p2 strong{
+    color: #009fcf;
+    font-size: xx-large;
+    font-family: sans-serif;
+}
+
+.p2 p{
+    font-family: sans-serif;
+    color: rgb(0 0 0 / 45%);
+    font-size: 18px; 
+}
+
+.p2 b{
+    color: #009fcf;
+}
+
+.p2 span{
+    font-weight: bold;
+}
+
+.p2 button{
+    border: none;
+    border-radius: 10vmax;
+    padding-left:27px;
+    padding-right: 27px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color:#009fcf;
+    color: aliceblue;
+}
+
+.p2 button:hover{
+background-color: rgb(162, 67, 226);
+
+}
+
+.sec2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 7%;
+    font-family: sans-serif;
+}
+
+.sec2 strong{
+    font-size: 37px;
+    color: rgb(0 0 0 / 45%);
+    font-weight: 500;
+}
+
+.sec2 p{
+    color: rgb(0 0 0 / 45%);
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.sec2 b{
+    color:#009fcf;
+    margin-left: 10%;
+}
+
+.sec3{
+    margin-top: 150px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 500;
+}
+.sec3 strong{
+    font-size: 37px;
+    font-weight: 100;
+    color:#009fcf;
+}
+
+.sec3 p{
+    color: rgb(0 0 0 / 45%);
+    font-size: 17px;
+
+}
+.sec4{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 90px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.foot{
+    position: relative;
+    font-family: sans-serif;
+    background-image: url(the-town-bg-02.jpg);
+    height: 990px;
+    object-fit: cover;
+    margin-top: 7%;
+    width: 100%;
+}
+
+.foot h1{
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 38px;
+    position: absolute;
+    top:16%;
+    margin-left: 20%;
+    color:white;
+    border-bottom:  white solid 5px;
+}
+.foot hr{ 
+    position: absolute;
+    color: white;
+    top: 21%;
+    width: 54%;
+    margin-left: 20%;
+    
+}
+.foot .pp{
+    font-size: 20px;
+    position: absolute;
+    top: 30%;
+    margin-left: 20%;
+    color: white;
+}
+
+.foot .pp2{
+   display: flex;
+   position: absolute;
+   top: 46%;
+    color: white;
+    margin-left: 4%;
+}
+
+.pp2 .ppp{
+margin-left:304px;
+}
+
+.pp2 .ppp1{
+margin-left: 450px;
+    
+}
+.end{
+    margin-left: 4%;
+    position: absolute;
+    display: flex;
+    top: 60%;
+}
+.end p{
+    margin-left: 300px;
+    color: white;
+}
+
+.input{
+    display: flex;
+    margin-left: 410px;
+  
+}
+.input input{
+    padding-right: 40px;
+    padding-left: 25px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border: solid 1px white;
+    background-color: transparent;    
+    
+}
+input::placeholder{
+    color: white;
+}
+
+.input button{
+    margin-left: 20px;
+    padding: 10px 25px 10px 25px;
+    border-radius: 8%;
+    border: none;
+}
+
+ .fin {
+    position: absolute;
+    bottom: 5%;
+    color: white;
+    margin-left: 37%;
+    font-size: small;
+}
+
+
+
+   
+
+
+
+
